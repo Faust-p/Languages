@@ -1,0 +1,14 @@
+D:\PGU\language\CW\CW\bin\Debug\netcoreapp3.1\CW.exe
+D:\PGU\language\CW\CW\bin\Debug\netcoreapp3.1\CW.deps.json
+D:\PGU\language\CW\CW\bin\Debug\netcoreapp3.1\CW.runtimeconfig.json
+D:\PGU\language\CW\CW\bin\Debug\netcoreapp3.1\CW.runtimeconfig.dev.json
+D:\PGU\language\CW\CW\bin\Debug\netcoreapp3.1\CW.dll
+D:\PGU\language\CW\CW\bin\Debug\netcoreapp3.1\CW.pdb
+D:\PGU\language\CW\CW\obj\Debug\netcoreapp3.1\CW.csproj.AssemblyReference.cache
+D:\PGU\language\CW\CW\obj\Debug\netcoreapp3.1\CW.GeneratedMSBuildEditorConfig.editorconfig
+D:\PGU\language\CW\CW\obj\Debug\netcoreapp3.1\CW.AssemblyInfoInputs.cache
+D:\PGU\language\CW\CW\obj\Debug\netcoreapp3.1\CW.AssemblyInfo.cs
+D:\PGU\language\CW\CW\obj\Debug\netcoreapp3.1\CW.csproj.CoreCompileInputs.cache
+D:\PGU\language\CW\CW\obj\Debug\netcoreapp3.1\CW.dll
+D:\PGU\language\CW\CW\obj\Debug\netcoreapp3.1\CW.pdb
+D:\PGU\language\CW\CW\obj\Debug\netcoreapp3.1\CW.genruntimeconfig.cache
